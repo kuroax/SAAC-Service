@@ -8,7 +8,7 @@ import { logger } from "#/config/logger.js";
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 
-const CLAUDE_MODEL = "claude-sonnet-4-20250514";
+const CLAUDE_MODEL = "claude-sonnet-4-6";
 const MAX_TOKENS = 1024;
 const TIMEOUT_MS = 25_000;
 const MAX_MESSAGE_CHARS = 2000;
